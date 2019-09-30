@@ -1,0 +1,39 @@
+---
+title: "Homework 1"
+author: "PLSC 31101"
+date: "Fall 2019"
+output: html_document
+---
+
+## Assignment 1
+
+- __Assigned__: Oct 3, 2019.
+- __Due__: Oct 10, 2019 at 12:29pm.
+
+For this assignment, you will confirm that everything is installed and setup correctly, and you understand how to interact with R Studio and R Markdown. 
+
+Your answers (to this assignment only) will be posted on our [course website](https://github.com/rochelleterman/plsc-31101).
+
+#### 1. Using R Markdown {-}
+
+In the space below, insert a picture of yourself, and complete the following information:
+
+`[your picture here]`
+
+1. __Name__:
+2. __Department and degree program:__
+3. __Year in the program:__
+4. __One-sentence description of academic interests:__
+5. __Some non-academic interests:__
+6. __R version installed on your computer:__ ^[To find this information, open a command line window ('terminal' or, on windows, 'git bash'), and enter the following command `R --version`]
+7. __R Studio version installed on your computer:__ ^[To find the version, open RStudio and, in the navigation menu, click on RStudio --> About RStudio.]
+
+#### 2. Checking packages {-}
+
+Create an R chunk below, where you load the `tidyverse` library.
+
+#### 3. Knit and submit. {-}
+
+Knit the R Markdown file to PDF. Submit the PDF file to Canvas. 
+
+If you get an error trying to knit, read the error and make sure that your R code is correct. If that doesn't work, confirm you've correctly installed the requisite packages (`knit`, `rmarkdown`). If you still can't get it to work, paste the error on Canvas. 
