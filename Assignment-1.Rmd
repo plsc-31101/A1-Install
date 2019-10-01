@@ -20,13 +20,13 @@ In the space below, insert a picture of yourself, and complete the following inf
 
 `[your picture here]`
 
-1. __Name__:
-2. __Department and degree program:__
-3. __Year in the program:__
-4. __One-sentence description of academic interests:__
-5. __Some non-academic interests:__
-6. __R version installed on your computer:__ ^[To find this information, open a command line window ('terminal' or, on windows, 'git bash'), and enter the following command `R --version`]
-7. __R Studio version installed on your computer:__ ^[To find the version, open RStudio and, in the navigation menu, click on RStudio --> About RStudio.]
+1. __Name__: 
+2. __Department and degree program__:
+3. __Year in the program__:
+4. __One-sentence description of academic interests__:
+5. __Some non-academic interests__:
+6. __R version installed on your computer__ (Open a command line window ('terminal' or, on windows, 'git bash'), and enter the following command `R --version`):
+7. __R Studio version installed on your computer__ (Open RStudio and, in the navigation menu, click on RStudio --> About RStudio):
 8. __Primary computer operating system__ (Mac OS, Windows, Linux, etc):
 9. __Programming experience__ (How would you describe your previous programming experience?):
 
@@ -36,6 +36,6 @@ Create an R chunk below, where you load the `tidyverse` library.
 
 #### 3. Knit and submit. {-}
 
-Knit the R Markdown file to PDF. Submit BOTH the .Rmd file and the PDF file to Canvas. 
+Knit the R Markdown file to PDF. Submit __BOTH__ the .Rmd file and the PDF file to Canvas. 
 
 If you get an error trying to knit, read the error and make sure that your R code is correct. If that doesn't work, confirm you've correctly installed the requisite packages (`knit`, `rmarkdown`). If you still can't get it to work, paste the error on Canvas. 
