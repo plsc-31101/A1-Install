@@ -27,8 +27,8 @@ In the space below, insert a picture of yourself, and complete the following inf
 5. __Some non-academic interests:__
 6. __R version installed on your computer:__ ^[To find this information, open a command line window ('terminal' or, on windows, 'git bash'), and enter the following command `R --version`]
 7. __R Studio version installed on your computer:__ ^[To find the version, open RStudio and, in the navigation menu, click on RStudio --> About RStudio.]
-8. __Primary Computer Operating System__ (Mac OS, Windows, Linux, etc):
-9. __Programming Experience__ (How would you describe your previous programming experience?):
+8. __Primary computer operating system__ (Mac OS, Windows, Linux, etc):
+9. __Programming experience__ (How would you describe your previous programming experience?):
 
 #### 2. Checking packages {-}
 
