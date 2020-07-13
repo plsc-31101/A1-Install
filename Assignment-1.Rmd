@@ -38,4 +38,4 @@ Create an R chunk below, where you load the `tidyverse` library.
 
 Knit the R Markdown file to PDF. Submit __BOTH__ the .Rmd file and the PDF file to Canvas. 
 
-If you get an error trying to knit, read the error and make sure that your R code is correct. If that doesn't work, confirm you've correctly installed the requisite packages (`knit`, `rmarkdown`). If you still can't get it to work, paste the error on Canvas. 
+If you get an error trying to knit, read the error and make sure that your R code is correct. If that doesn't work, confirm you've correctly installed the requisite packages (`knitr`, `rmarkdown`). If you still can't get it to work, paste the error on Canvas. 
