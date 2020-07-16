@@ -1,0 +1,45 @@
+---
+title: "Homework 1"
+author: "PLSC 31101"
+date: "Fall 2019"
+output: html_document
+---
+
+## Assignment 1 Solutions
+
+- __Assigned__: Oct 3, 2019.
+- __Due__: Oct 10, 2019 at 12:29pm.
+
+For this assignment, you will confirm that everything is installed and setup correctly, and you understand how to interact with R Studio and R Markdown. 
+
+Your answers (to this assignment only) will be posted on our [course website](https://github.com/rochelleterman/plsc-31101).
+
+#### 1. Using R Markdown {-}
+
+In the space below, insert a picture of yourself, and complete the following information:
+
+![](img/dany.jpg)
+
+1. __Name__: Daenerys Targaryen
+2. __Department and degree program__: Queen of the Andals and the First Men, Protector of the Seven Kingdoms, the Mother of Dragons, the Khaleesi of the Great Grass Sea, the Unburnt, the Breaker of Chains.
+3. __Year in the program__: First.
+4. __One-sentence description of academic interests__: I am interested in slavery, intercontinental conflict, and pyrology.
+5. __Some non-academic interests__: Dragons, Jon Snow, eating raw hearts.
+6. __R version installed on your computer__ (Open a command line window ('terminal' or, on windows, 'git bash'), and enter the following command `R --version`): 3.6.1
+7. __R Studio version installed on your computer__ (Open RStudio and, in the navigation menu, click on RStudio --> About RStudio): 1.1.456
+8. __Primary computer operating system__ (Mac OS, Windows, Linux, etc): Mac OS 10.13.6.
+9. __Programming experience__ (How would you describe your previous programming experience?): None.
+
+#### 2. Checking packages {-}
+
+Create an R chunk below, where you load the `tidyverse` library.
+
+```{r}
+library(tidyverse)
+```
+
+#### 3. Knit and submit. {-}
+
+Knit the R Markdown file to PDF. Submit __BOTH__ the .Rmd file and the PDF file to Canvas. 
+
+If you get an error trying to knit, read the error and make sure that your R code is correct. If that doesn't work, confirm you've correctly installed the requisite packages (`knit`, `rmarkdown`). If you still can't get it to work, paste the error on Canvas. 
