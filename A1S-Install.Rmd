@@ -1,14 +1,14 @@
 ---
-title: "Homework 1"
+title: "Assignment 1 Solutions"
 author: "PLSC 31101"
-date: "Fall 2019"
+date: "Fall 2020"
 output: html_document
 ---
 
 ## Assignment 1 Solutions
 
-- __Assigned__: Oct 3, 2019.
-- __Due__: Oct 10, 2019 at 12:29pm.
+- __Assigned__: TBD
+- __Due__: TBD
 
 For this assignment, you will confirm that everything is installed and setup correctly, and you understand how to interact with R Studio and R Markdown. 
 

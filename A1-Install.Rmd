@@ -1,5 +1,5 @@
 ---
-title: "Homework 1"
+title: "Assignment 1"
 author: "PLSC 31101"
 date: "Fall 2020"
 output: html_document
