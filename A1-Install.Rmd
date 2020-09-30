@@ -8,7 +8,7 @@ output: html_document
 ## Assignment 1
 
 - __Assigned__: September 30.
-- __Due__: October 7 by 11:59pm.
+- __Due__: October 7 by 11:59pm CT.
 
 For this assignment, you will confirm that everything is installed and setup correctly, and you understand how to interact with R Studio and R Markdown. 
 
